@@ -1,1 +1,1 @@
-A very Simple Digital clock that shows local time.A first little step to learn javaScript.
+A very Simple Digital clock that shows local time.First little step towards the javaScript world!💫🤗
